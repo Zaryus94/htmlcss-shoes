@@ -1,22 +1,39 @@
 *{
     box-sizing: border-box;
     margin: 0;
+    font-family: 'Rubik Mono One', sans-serif;
 }
 
 .red{
     background-color: red;
+    height: 100vh
+}
+
+#diff{
+
 }
 
 .green{
     background-color: green;
+    height: 100vh
+}
+
+#tom{
+
 }
 
 .yellow{
     background: yellow;
+    height: 100vh
+}
+
+#conv{
+
 }
 
 .yellow_text{
     color: yellow;
+    text-align: center;
 }
 
 #green_text{
