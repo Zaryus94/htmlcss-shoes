@@ -6,36 +6,37 @@
 
 .red{
     background-color: red;
-    height: 100vh
+    height: 100vh;
+    text-align: center;
 }
 
 #diff{
-
+    margin-top: 10%;
 }
 
 .green{
     background-color: green;
-    height: 100vh
+    height: 100vh;
+    text-align: center;
 }
 
 #tom{
-
+    margin-top: 10%;
 }
 
 .yellow{
     background: yellow;
-    height: 100vh
+    height: 100vh;
+    text-align: center;
 }
 
 #conv{
-
+    margin-top: 10%;
 }
 
-.yellow_text{
+h1{
     color: yellow;
-    text-align: center;
 }
 
 #green_text{
     color: green;
-}
