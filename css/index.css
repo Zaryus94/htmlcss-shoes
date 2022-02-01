@@ -1,15 +1,24 @@
 *{
     box-sizing: border-box;
+    margin: 0;
 }
 
 .red{
-
+    background-color: red;
 }
 
 .green{
-
+    background-color: green;
 }
 
 .yellow{
+    background: yellow;
+}
 
+.yellow_text{
+    color: yellow;
+}
+
+#green_text{
+    color: green;
 }
