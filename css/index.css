@@ -4,6 +4,22 @@
     font-family: 'Rubik Mono One', sans-serif;
 }
 
+/* Navbar */
+
+nav{
+    position: fixed;
+    display: inline-block;
+    margin: 1% 0 0 94%;
+}
+
+button{
+    border: 1px white;
+    border-radius: 50%;
+
+}
+
+/* First promo banner */
+
 .red{
     background-color: red;
     height: 100vh;
@@ -14,11 +30,15 @@
     margin-top: 10%;
 }
 
+/* Second promo banner */
+
 .green{
     background-color: green;
     height: 100vh;
     text-align: center;
 }
+
+/* Third promo banner */
 
 #tom{
     margin-top: 10%;
@@ -33,6 +53,8 @@
 #conv{
     margin-top: 10%;
 }
+
+/* Text */
 
 h1{
     color: yellow;
