@@ -29,10 +29,6 @@ button{
     text-align: center;
 }
 
-#diff{
-    margin-top: 10%;
-}
-
 /* Second promo banner */
 
 .green{
@@ -43,17 +39,15 @@ button{
 
 /* Third promo banner */
 
-#tom{
-    margin-top: 10%;
-}
-
 .yellow{
     background: yellow;
     height: 100vh;
     text-align: center;
 }
 
-#conv{
+/* Shoes */
+
+.shoes{
     margin-top: 10%;
 }
 
